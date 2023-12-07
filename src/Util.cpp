@@ -1,4 +1,5 @@
 #include "Util.h"
+#include <stdexcept>
 
 namespace Util {
     std::string exec(const char* cmd) {
